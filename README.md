@@ -2,7 +2,7 @@
 - 👀 I’m interested in hacking stuff
 - 🌱 I’m currently learning Forensics and footprinting
 - 💞️ I’m looking to collaborate on Penetration testing projects
-- 📫 How to reach me : h4cksolutions@protonmail.com
+- 📫 How to reach me : shahidahktar@gmail.com
 
 <!---
 shahidakhter786/shahidakhter786 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
