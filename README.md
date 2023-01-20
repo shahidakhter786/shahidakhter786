@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @shahidakhter786
-- 👀 I’m interested in hacking stuff
-- 🌱 I’m currently learning Forensics and footprinting
-- 💞️ I’m looking to collaborate on Penetration testing projects
+- 👀 I do research on Cyber Security
+- 🌱 I’m currently Working on Threat Intel and Malware Analysis
+- 💞️ I’m looking to collaborate on Threat Intel & Cyber Security projects
 - 📫 How to reach me : shahidahktar@gmail.com
 
 <!---
