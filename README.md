@@ -15,4 +15,4 @@ Collaboration:
 
 Contact:
 
-    📧 Email: shahidakhter@gmail.com
+    📧 Email: shahidahktar@gmail.com
